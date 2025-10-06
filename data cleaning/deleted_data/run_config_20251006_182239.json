@@ -1,0 +1,23 @@
+{
+    "run_timestamp": "20251006_182239",
+    "DEFAULT_SYMBOL_DIR": "C:\\dev\\SignGlove-DataAnalysis\\unified",
+    "DEFAULT_SYMBOL": "ㄱ",
+    "OUTPUT_ROOT": "C:\\dev\\SignGlove-DataAnalysis\\data cleaning\\deleted_data",
+    "THRESHOLDS": {
+        "flex": 0.8,
+        "angle": 25.0
+    },
+    "MIN_SEGMENT_LEN": 2,
+    "MIN_GAP_TO_MERGE": 5,
+    "SAVE_SEGMENT_REPORTS": true,
+    "TARGET_CHANNELS": [
+        "flex1",
+        "flex2",
+        "flex3",
+        "flex4",
+        "flex5",
+        "yaw",
+        "pitch",
+        "roll"
+    ]
+}

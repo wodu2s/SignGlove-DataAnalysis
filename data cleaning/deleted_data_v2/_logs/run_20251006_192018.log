@@ -1,0 +1,207 @@
+2025-10-06 19:20:18,820 [INFO] - 로깅 설정 완료.
+2025-10-06 19:20:18,821 [INFO] - 실행 설정이 C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\run_config_20251006_192018.json에 저장되었습니다.
+2025-10-06 19:20:18,821 [INFO] - 스캔 시작: C:\dev\SignGlove-DataAnalysis\unified_v2
+2025-10-06 19:20:18,870 [INFO] - 처리할 50개의 CSV 파일을 찾았습니다.
+2025-10-06 19:20:18,871 [INFO] - --- 파일 처리 중: episode_20250917_172635_ㄱ_1.csv ---
+2025-10-06 19:20:18,896 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:18,905 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172635_ㄱ_1.csv
+2025-10-06 19:20:18,907 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172635_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:18,907 [INFO] - --- 파일 처리 중: episode_20250917_172636_ㄱ_1.csv ---
+2025-10-06 19:20:18,918 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:18,921 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172636_ㄱ_1.csv
+2025-10-06 19:20:18,922 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172636_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:18,923 [INFO] - --- 파일 처리 중: episode_20250917_172639_ㄱ_1.csv ---
+2025-10-06 19:20:18,940 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:18,943 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172639_ㄱ_1.csv
+2025-10-06 19:20:18,944 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172639_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:18,944 [INFO] - --- 파일 처리 중: episode_20250917_172641_ㄱ_1.csv ---
+2025-10-06 19:20:18,960 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:18,962 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172641_ㄱ_1.csv
+2025-10-06 19:20:18,964 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172641_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:18,964 [INFO] - --- 파일 처리 중: episode_20250917_172646_ㄱ_1.csv ---
+2025-10-06 19:20:18,981 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:18,984 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172646_ㄱ_1.csv
+2025-10-06 19:20:18,986 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172646_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:18,986 [INFO] - --- 파일 처리 중: episode_20250917_172647_ㄱ_1.csv ---
+2025-10-06 19:20:19,004 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,006 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172647_ㄱ_1.csv
+2025-10-06 19:20:19,008 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172647_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:19,008 [INFO] - --- 파일 처리 중: episode_20250917_172648_ㄱ_1.csv ---
+2025-10-06 19:20:19,025 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,027 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172648_ㄱ_1.csv
+2025-10-06 19:20:19,028 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172648_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:19,028 [INFO] - --- 파일 처리 중: episode_20250917_172650_ㄱ_1.csv ---
+2025-10-06 19:20:19,044 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,047 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172650_ㄱ_1.csv
+2025-10-06 19:20:19,048 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172650_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:19,048 [INFO] - --- 파일 처리 중: episode_20250917_172653_ㄱ_1.csv ---
+2025-10-06 19:20:19,067 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,072 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172653_ㄱ_1.csv
+2025-10-06 19:20:19,074 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172653_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:19,074 [INFO] - --- 파일 처리 중: episode_20250917_172655_ㄱ_1.csv ---
+2025-10-06 19:20:19,085 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,088 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172655_ㄱ_1.csv
+2025-10-06 19:20:19,090 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172655_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:19,090 [INFO] - --- 파일 처리 중: episode_20250917_172657_ㄱ_1.csv ---
+2025-10-06 19:20:19,102 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,104 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\episode_20250917_172657_ㄱ_1.csv
+2025-10-06 19:20:19,106 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\1\_reports\episode_20250917_172657_ㄱ_1_jump_segments.csv
+2025-10-06 19:20:19,106 [INFO] - --- 파일 처리 중: episode_20250917_172611_ㄱ_2.csv ---
+2025-10-06 19:20:19,116 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,120 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\episode_20250917_172611_ㄱ_2.csv
+2025-10-06 19:20:19,121 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\_reports\episode_20250917_172611_ㄱ_2_jump_segments.csv
+2025-10-06 19:20:19,121 [INFO] - --- 파일 처리 중: episode_20250917_172612_ㄱ_2.csv ---
+2025-10-06 19:20:19,132 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,135 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\episode_20250917_172612_ㄱ_2.csv
+2025-10-06 19:20:19,136 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\_reports\episode_20250917_172612_ㄱ_2_jump_segments.csv
+2025-10-06 19:20:19,136 [INFO] - --- 파일 처리 중: episode_20250917_172613_ㄱ_2.csv ---
+2025-10-06 19:20:19,153 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,155 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\episode_20250917_172613_ㄱ_2.csv
+2025-10-06 19:20:19,158 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\_reports\episode_20250917_172613_ㄱ_2_jump_segments.csv
+2025-10-06 19:20:19,158 [INFO] - --- 파일 처리 중: episode_20250917_172615_ㄱ_2.csv ---
+2025-10-06 19:20:19,169 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,172 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\episode_20250917_172615_ㄱ_2.csv
+2025-10-06 19:20:19,173 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\_reports\episode_20250917_172615_ㄱ_2_jump_segments.csv
+2025-10-06 19:20:19,173 [INFO] - --- 파일 처리 중: episode_20250917_172619_ㄱ_2.csv ---
+2025-10-06 19:20:19,184 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,186 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\episode_20250917_172619_ㄱ_2.csv
+2025-10-06 19:20:19,188 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\_reports\episode_20250917_172619_ㄱ_2_jump_segments.csv
+2025-10-06 19:20:19,188 [INFO] - --- 파일 처리 중: episode_20250917_172620_ㄱ_2.csv ---
+2025-10-06 19:20:19,199 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,201 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\episode_20250917_172620_ㄱ_2.csv
+2025-10-06 19:20:19,203 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\_reports\episode_20250917_172620_ㄱ_2_jump_segments.csv
+2025-10-06 19:20:19,203 [INFO] - --- 파일 처리 중: episode_20250917_172622_ㄱ_2.csv ---
+2025-10-06 19:20:19,214 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,217 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\episode_20250917_172622_ㄱ_2.csv
+2025-10-06 19:20:19,218 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\_reports\episode_20250917_172622_ㄱ_2_jump_segments.csv
+2025-10-06 19:20:19,219 [INFO] - --- 파일 처리 중: episode_20250917_172625_ㄱ_2.csv ---
+2025-10-06 19:20:19,230 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,233 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\episode_20250917_172625_ㄱ_2.csv
+2025-10-06 19:20:19,234 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\_reports\episode_20250917_172625_ㄱ_2_jump_segments.csv
+2025-10-06 19:20:19,234 [INFO] - --- 파일 처리 중: episode_20250917_172629_ㄱ_2.csv ---
+2025-10-06 19:20:19,245 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,248 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\episode_20250917_172629_ㄱ_2.csv
+2025-10-06 19:20:19,250 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\2\_reports\episode_20250917_172629_ㄱ_2_jump_segments.csv
+2025-10-06 19:20:19,250 [INFO] - --- 파일 처리 중: episode_20250917_172435_ㄱ_3.csv ---
+2025-10-06 19:20:19,260 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,263 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172435_ㄱ_3.csv
+2025-10-06 19:20:19,264 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172435_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,264 [INFO] - --- 파일 처리 중: episode_20250917_172440_ㄱ_3.csv ---
+2025-10-06 19:20:19,280 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,283 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172440_ㄱ_3.csv
+2025-10-06 19:20:19,285 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172440_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,285 [INFO] - --- 파일 처리 중: episode_20250917_172442_ㄱ_3.csv ---
+2025-10-06 19:20:19,296 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,298 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172442_ㄱ_3.csv
+2025-10-06 19:20:19,300 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172442_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,300 [INFO] - --- 파일 처리 중: episode_20250917_172449_ㄱ_3.csv ---
+2025-10-06 19:20:19,310 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,313 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172449_ㄱ_3.csv
+2025-10-06 19:20:19,314 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172449_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,314 [INFO] - --- 파일 처리 중: episode_20250917_172450_ㄱ_3.csv ---
+2025-10-06 19:20:19,327 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,330 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172450_ㄱ_3.csv
+2025-10-06 19:20:19,331 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172450_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,331 [INFO] - --- 파일 처리 중: episode_20250917_172455_ㄱ_3.csv ---
+2025-10-06 19:20:19,342 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,344 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172455_ㄱ_3.csv
+2025-10-06 19:20:19,345 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172455_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,346 [INFO] - --- 파일 처리 중: episode_20250917_172459_ㄱ_3.csv ---
+2025-10-06 19:20:19,357 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,360 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172459_ㄱ_3.csv
+2025-10-06 19:20:19,361 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172459_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,361 [INFO] - --- 파일 처리 중: episode_20250917_172500_ㄱ_3.csv ---
+2025-10-06 19:20:19,372 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,374 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172500_ㄱ_3.csv
+2025-10-06 19:20:19,376 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172500_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,376 [INFO] - --- 파일 처리 중: episode_20250917_172501_ㄱ_3.csv ---
+2025-10-06 19:20:19,387 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,389 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172501_ㄱ_3.csv
+2025-10-06 19:20:19,392 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172501_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,392 [INFO] - --- 파일 처리 중: episode_20250917_172503_ㄱ_3.csv ---
+2025-10-06 19:20:19,405 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,408 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172503_ㄱ_3.csv
+2025-10-06 19:20:19,409 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172503_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,409 [INFO] - --- 파일 처리 중: episode_20250917_172505_ㄱ_3.csv ---
+2025-10-06 19:20:19,421 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,424 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\episode_20250917_172505_ㄱ_3.csv
+2025-10-06 19:20:19,425 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\3\_reports\episode_20250917_172505_ㄱ_3_jump_segments.csv
+2025-10-06 19:20:19,425 [INFO] - --- 파일 처리 중: episode_20250917_172512_ㄱ_4.csv ---
+2025-10-06 19:20:19,436 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,439 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\episode_20250917_172512_ㄱ_4.csv
+2025-10-06 19:20:19,440 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\_reports\episode_20250917_172512_ㄱ_4_jump_segments.csv
+2025-10-06 19:20:19,440 [INFO] - --- 파일 처리 중: episode_20250917_172513_ㄱ_4.csv ---
+2025-10-06 19:20:19,451 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,454 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\episode_20250917_172513_ㄱ_4.csv
+2025-10-06 19:20:19,456 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\_reports\episode_20250917_172513_ㄱ_4_jump_segments.csv
+2025-10-06 19:20:19,456 [INFO] - --- 파일 처리 중: episode_20250917_172514_ㄱ_4.csv ---
+2025-10-06 19:20:19,466 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,469 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\episode_20250917_172514_ㄱ_4.csv
+2025-10-06 19:20:19,470 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\_reports\episode_20250917_172514_ㄱ_4_jump_segments.csv
+2025-10-06 19:20:19,470 [INFO] - --- 파일 처리 중: episode_20250917_172517_ㄱ_4.csv ---
+2025-10-06 19:20:19,481 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,483 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\episode_20250917_172517_ㄱ_4.csv
+2025-10-06 19:20:19,485 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\_reports\episode_20250917_172517_ㄱ_4_jump_segments.csv
+2025-10-06 19:20:19,485 [INFO] - --- 파일 처리 중: episode_20250917_172519_ㄱ_4.csv ---
+2025-10-06 19:20:19,496 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,498 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\episode_20250917_172519_ㄱ_4.csv
+2025-10-06 19:20:19,500 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\_reports\episode_20250917_172519_ㄱ_4_jump_segments.csv
+2025-10-06 19:20:19,500 [INFO] - --- 파일 처리 중: episode_20250917_172526_ㄱ_4.csv ---
+2025-10-06 19:20:19,511 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,513 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\episode_20250917_172526_ㄱ_4.csv
+2025-10-06 19:20:19,514 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\_reports\episode_20250917_172526_ㄱ_4_jump_segments.csv
+2025-10-06 19:20:19,515 [INFO] - --- 파일 처리 중: episode_20250917_172527_ㄱ_4.csv ---
+2025-10-06 19:20:19,525 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,528 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\episode_20250917_172527_ㄱ_4.csv
+2025-10-06 19:20:19,529 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\_reports\episode_20250917_172527_ㄱ_4_jump_segments.csv
+2025-10-06 19:20:19,529 [INFO] - --- 파일 처리 중: episode_20250917_172528_ㄱ_4.csv ---
+2025-10-06 19:20:19,540 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,543 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\episode_20250917_172528_ㄱ_4.csv
+2025-10-06 19:20:19,544 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\_reports\episode_20250917_172528_ㄱ_4_jump_segments.csv
+2025-10-06 19:20:19,544 [INFO] - --- 파일 처리 중: episode_20250917_172531_ㄱ_4.csv ---
+2025-10-06 19:20:19,555 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,558 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\episode_20250917_172531_ㄱ_4.csv
+2025-10-06 19:20:19,559 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\_reports\episode_20250917_172531_ㄱ_4_jump_segments.csv
+2025-10-06 19:20:19,560 [INFO] - --- 파일 처리 중: episode_20250917_172533_ㄱ_4.csv ---
+2025-10-06 19:20:19,571 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,574 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\episode_20250917_172533_ㄱ_4.csv
+2025-10-06 19:20:19,576 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\4\_reports\episode_20250917_172533_ㄱ_4_jump_segments.csv
+2025-10-06 19:20:19,576 [INFO] - --- 파일 처리 중: episode_20250917_172542_ㄱ_5.csv ---
+2025-10-06 19:20:19,593 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,595 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\episode_20250917_172542_ㄱ_5.csv
+2025-10-06 19:20:19,596 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\_reports\episode_20250917_172542_ㄱ_5_jump_segments.csv
+2025-10-06 19:20:19,597 [INFO] - --- 파일 처리 중: episode_20250917_172543_ㄱ_5.csv ---
+2025-10-06 19:20:19,608 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,610 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\episode_20250917_172543_ㄱ_5.csv
+2025-10-06 19:20:19,612 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\_reports\episode_20250917_172543_ㄱ_5_jump_segments.csv
+2025-10-06 19:20:19,612 [INFO] - --- 파일 처리 중: episode_20250917_172545_ㄱ_5.csv ---
+2025-10-06 19:20:19,623 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,625 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\episode_20250917_172545_ㄱ_5.csv
+2025-10-06 19:20:19,627 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\_reports\episode_20250917_172545_ㄱ_5_jump_segments.csv
+2025-10-06 19:20:19,627 [INFO] - --- 파일 처리 중: episode_20250917_172547_ㄱ_5.csv ---
+2025-10-06 19:20:19,639 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,642 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\episode_20250917_172547_ㄱ_5.csv
+2025-10-06 19:20:19,643 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\_reports\episode_20250917_172547_ㄱ_5_jump_segments.csv
+2025-10-06 19:20:19,643 [INFO] - --- 파일 처리 중: episode_20250917_172552_ㄱ_5.csv ---
+2025-10-06 19:20:19,654 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,657 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\episode_20250917_172552_ㄱ_5.csv
+2025-10-06 19:20:19,659 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\_reports\episode_20250917_172552_ㄱ_5_jump_segments.csv
+2025-10-06 19:20:19,659 [INFO] - --- 파일 처리 중: episode_20250917_172554_ㄱ_5.csv ---
+2025-10-06 19:20:19,670 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,673 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\episode_20250917_172554_ㄱ_5.csv
+2025-10-06 19:20:19,674 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\_reports\episode_20250917_172554_ㄱ_5_jump_segments.csv
+2025-10-06 19:20:19,675 [INFO] - --- 파일 처리 중: episode_20250917_172556_ㄱ_5.csv ---
+2025-10-06 19:20:19,686 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,688 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\episode_20250917_172556_ㄱ_5.csv
+2025-10-06 19:20:19,690 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\_reports\episode_20250917_172556_ㄱ_5_jump_segments.csv
+2025-10-06 19:20:19,690 [INFO] - --- 파일 처리 중: episode_20250917_172559_ㄱ_5.csv ---
+2025-10-06 19:20:19,702 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,705 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\episode_20250917_172559_ㄱ_5.csv
+2025-10-06 19:20:19,707 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\_reports\episode_20250917_172559_ㄱ_5_jump_segments.csv
+2025-10-06 19:20:19,707 [INFO] - --- 파일 처리 중: episode_20250917_172605_ㄱ_5.csv ---
+2025-10-06 19:20:19,723 [INFO] - 모든 채널에서 5개의 Jump 구간을 찾았습니다.
+2025-10-06 19:20:19,726 [INFO] - 정제된 데이터를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\episode_20250917_172605_ㄱ_5.csv
+2025-10-06 19:20:19,727 [INFO] - 구간 리포트를 다음 경로에 저장했습니다: C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\ㄱ\5\_reports\episode_20250917_172605_ㄱ_5_jump_segments.csv
+2025-10-06 19:20:19,727 [INFO] - --- 처리 완료 ---
+2025-10-06 19:20:19,727 [INFO] - Jump가 처리된 총 파일 수: 50
+2025-10-06 19:20:19,727 [INFO] - 탐지된 총 Jump 구간 수: 250
