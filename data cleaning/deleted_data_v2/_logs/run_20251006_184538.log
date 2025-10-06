@@ -1,0 +1,4 @@
+2025-10-06 18:45:38,043 [INFO] - 로깅 설정 완료.
+2025-10-06 18:45:38,045 [INFO] - 실행 설정이 C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\run_config_20251006_184538.json에 저장되었습니다.
+2025-10-06 18:45:38,045 [INFO] - 스캔 시작: C:\dev\SignGlove-DataAnalysis\unified\ㄱ
+2025-10-06 18:45:38,046 [WARNING] - 지정된 디렉토리에서 CSV 파일을 찾을 수 없습니다.

@@ -1,0 +1,3 @@
+2025-10-06 18:59:39,530 [INFO] - 로깅 설정 완료.
+2025-10-06 18:59:39,531 [INFO] - 실행 설정이 C:\dev\SignGlove-DataAnalysis\data cleaning\deleted_data_v2\run_config_20251006_185939.json에 저장되었습니다.
+2025-10-06 18:59:39,531 [ERROR] - 입력 디렉토리를 찾을 수 없습니다: C:\dev\SignGlove_HW\datasets\unified\ㄱ
