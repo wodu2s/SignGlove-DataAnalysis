@@ -131,7 +131,5 @@ SignGlove-DataAnalysis/
 
 ```
 MIT License  
-Copyright (c) 2025 SignGlove Data Analysis Team
+Copyright (c) 2025 SignGlove Data Analysis 
 ```
-
-그렇게 압축파일 형태로 구성해드릴까요?
