@@ -1,6 +1,6 @@
 # SignGlove Data Analysis
 
-> 손글씨 인식 혹은 수어(수화) 제스처 인식을 위한 데이터 기반 분석 및 시각화 프로젝트
+> 수어(수화) 제스처 인식을 위한 데이터 기반 분석 및 시각화
 
 ## 목차
 
@@ -17,8 +17,8 @@
 
 ## 1. 소개
 
-**SignGlove Data Analysis** 프로젝트는 데이터 장갑(센서 글러브)으로 수집한 제스처 데이터를 전처리하고, 탐색적 분석과 시각화를 수행하는 데 중점을 둡니다.
-본 저장소는 수어(수화) 또는 손 동작 인식 연구의 초기 데이터 분석 단계를 담당하며, 분석 코드와 시각화 도구를 제공합니다.
+**SignGlove Data Analysis** 프로젝트는 데이터 장갑(SignGlove)으로 수집한 제스처 데이터를 전처리하고, 탐색적 분석과 시각화를 수행하는 데 중점을 둡니다.
+본 저장소는 수어(수화) 인식 연구의 데이터 분석 단계를 담당하며, 분석 코드와 시각화 도구를 제공합니다.
 
 이 저장소의 목적은 다음과 같습니다:
 
@@ -33,7 +33,9 @@
 
 ```
 SignGlove-DataAnalysis/
-│  
+│
+├── requirements.txt
+│
 ├── summary statistics/  
 │   └── … (요약 통계 관련 코드 및 리포트)  
 ├── data cleaning/  
@@ -41,7 +43,7 @@ SignGlove-DataAnalysis/
 ├── data visualization/  
 │   └── … (시각화 코드: 박스플롯, 히스토그램 등)  
 ├── unified/  
-│   └── … (다양한 데이터 소스를 통합 정리하는 코드)  
+│   └── … (원본 센서 데이터)  
 ├── boxplot.py  
 └── cleaned_dataset (보정).csv  
 ```
@@ -49,7 +51,7 @@ SignGlove-DataAnalysis/
 * `summary statistics/` : 각 제스처별 통계 요약, 분포 분석 코드
 * `data cleaning/` : 누락치 처리, 이상치 탐지, 보정 알고리즘
 * `data visualization/` : 시계열 플롯, 박스 플롯, 히트맵 등
-* `unified/` : 여러 실험 데이터를 하나의 포맷으로 통합
+* `unified/` : 아무런 전처리 없이 그대로 저장한 센서 데이터
 * `boxplot.py` : 박스 플롯을 그리는 독립 실행 스크립트
 * `cleaned_dataset (보정).csv` : 전처리 및 보정이 완료된 최종 데이터셋
 
@@ -73,7 +75,6 @@ SignGlove-DataAnalysis/
 ```bash
 git clone https://github.com/wodu2s/SignGlove-DataAnalysis.git
 cd SignGlove-DataAnalysis
-pip install -r requirements.txt  # 만약 requirements.txt가 있다면
 ```
 
 ### 사용 예시
@@ -82,6 +83,7 @@ pip install -r requirements.txt  # 만약 requirements.txt가 있다면
 
    ```bash
    python data_cleaning/xxx_cleaning_script.py
+   pip install -r requirements.txt
    ```
 
 2. 시각화 실행
