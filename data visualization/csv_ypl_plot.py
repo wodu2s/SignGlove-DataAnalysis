@@ -4,8 +4,8 @@ import os
 import glob
 
 # --- 설정 상수 ---
-DEFAULT_SYMBOL_DIR = r"C:\Users\jjy06\OneDrive\바탕 화면\DeepBot\AIoT 프로젝트\unified\ㅣ"
-DEFAULT_SYMBOL = "ㅣ"
+DEFAULT_SYMBOL_DIR = r"C:\dev\SignGlove-DataAnalysis\unified_hb\ㅇ"
+DEFAULT_SYMBOL = "ㅇ"
 EPISODE_DIRS = ["1", "2", "3", "4", "5"]
 NA_VALUES = ["", " ", "NA"]
 OUTPUT_ROOT = r"C:\dev\SignGlove-DataAnalysis\data visualization\visualization"

@@ -1,0 +1,11 @@
+# Core data analysis libraries
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Optional: outlier detection or data preprocessing tools
+scipy==1.13.1
+scikit-learn==1.5.0

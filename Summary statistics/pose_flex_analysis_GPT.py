@@ -5,7 +5,12 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from scipy.spatial.distance import pdist, squareform
 import matplotlib.pyplot as plt
+import seaborn as sns
 import warnings
+
+# 한글 폰트 설정
+plt.rc('font', family='Malgun Gothic')
+plt.rcParams['axes.unicode_minus'] = False
 
 # 경고 메시지 무시
 warnings.filterwarnings("ignore", category=FutureWarning)
@@ -144,6 +149,34 @@ def compute_RII_plus(df: pd.DataFrame) -> pd.DataFrame:
     
     return final_df[['순위', 'class', 'RII', 'RII_plus', '해석', 'Δ분산', 'Δ평균거리', 'RCI', 'Yaw_impact', 'Pitch_impact', 'Roll_impact', '축_불균형']]
 
+# --- 3단계: 히트맵 시각화 ---
+def create_heatmap(df: pd.DataFrame, output_path: str):
+    """분석 결과를 바탕으로 회전 영향도 히트맵을 생성하고 저장합니다."""
+    print("\n--- 3단계: 히트맵 생성 중 ---")
+    
+    # 히트맵에 사용할 데이터 선택 및 정렬
+    heatmap_data = df.sort_values('RII_plus', ascending=False)
+    heatmap_data = heatmap_data.set_index('class')[['Yaw_impact', 'Pitch_impact', 'Roll_impact']]
+    
+    plt.figure(figsize=(10, 12))
+    sns.heatmap(
+        heatmap_data,
+        annot=True,
+        fmt=".2f",
+        cmap='viridis',
+        linewidths=.5,
+        cbar_kws={'label': '회전 축별 영향도 (정규화 값)'}
+    )
+    plt.title('클래스별 회전 축 영향도 분석', fontsize=16, pad=20)
+    plt.xlabel('회전 축 (Rotation Axis)', fontsize=12)
+    plt.ylabel('클래스 (Class)', fontsize=12)
+    plt.xticks(rotation=0)
+    plt.yticks(rotation=0)
+    plt.tight_layout()
+    
+    plt.savefig(output_path, dpi=300)
+    print(f"히트맵 저장 완료: {output_path}")
+
 # --- 메인 실행 ---
 
 if __name__ == "__main__":
@@ -173,9 +206,13 @@ if __name__ == "__main__":
         print(f"2단계 최종 결과 저장 완료: {rii_plus_save_path}")
 
         # 최종 결과 출력
-        print("\n📊 --- 최종 회전 센서 영향 분석 결과 (RII+ ) ---")
+        print("\n--- 최종 회전 센서 영향 분석 결과 (RII+ ) ---")
         # 보기 좋게 일부 컬럼만 선택하여 출력
         print(rii_plus_result[['순위', 'class', 'RII_plus', '해석']])
+
+        # --- 3단계 실행 ---
+        heatmap_save_path = os.path.join(output_dir, "rotation_impact_heatmap.png")
+        create_heatmap(rii_plus_result, heatmap_save_path)
 
     except (FileNotFoundError, ValueError, Exception) as e:
         print(f"\n오류 발생: {e}")
